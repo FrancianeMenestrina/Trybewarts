@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: rgb(182, 175, 175);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(50, 167, 145);
+  height: 54px;
+  padding: 8px;
+}
+
+.trybewarts-header-logo {
+  height: 100%;
+}
+
+#trybewarts-header-title {
+  color: white;
+  align-self: center;
+  font-size: 38px;
+}
+
+.trybewarts-login {
+  display: flex;
+  justify-content: space-around;
+  width: 508px;
+  align-items: center;
+}
+
+#divLogin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  height: 500px;
+  padding: 25px;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+.name-lastname {
+  display: flex;
+}
+
+.input-name-lastname-form {
+  width: 50%;
+  padding: 4px;
+  border-radius: 5px;
+  border: 1px solid white;
+}
+
+.email-house-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.email-house-div input , select {
+  width: 50%;
+  padding: 4px;
+  border-radius: 5px;
+  border: white;
+}
+
+.family-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-div {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.content-check {
+  width: 33.2%;
+}
+
+textarea {
+  resize: none;
+  border-radius: 5px;
+}
+
+.textarea-div {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: gray;
+  padding: 10px;
+}
+
+#input-email-header {
+  height: 30px;
+  align-self: center;
+  width: 10pc;
+  border-radius: 10px;
+  border: white;
+}
+
+#input-password {
+  height: 30px;
+  align-self: center;
+  width: 10pc;
+  border-radius: 10px;
+  border: white;
+}
+
+.button-login {
+  height: 36px;
+  align-self: center;
+  width: 10pc;
+  background-color: rgb(44, 27, 78);
+  color: white;
+  border-radius: 10px;
+  border: rgb(44, 27, 78);
+}
+
+#submit-btn {
+  background-color: rgb(44, 27, 78);
+  color: white;
+  border-radius: 5px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 25px;
+}
