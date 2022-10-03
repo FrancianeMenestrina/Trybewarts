@@ -1,17 +1,16 @@
-# 🚧 README em construção 🚧
+<h1>Trybewarts Project</h1>
 
-<!-- Olá, Tryber!
+A aplicação trata-se de um formulário de avaliação da Escola de Magia de Trybewarts.
+Era necessário ter o posicionamento correto dos elementos de acordo com o layout recebido como exemplo e que as informações fossem submetidas através do funcionamento correto do botão.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
 
-É essencial que você preencha esse documento por conta própria, ok?
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+<h2>Ferramentas:</h2>
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+- JavaScript
+- HTML
+- CSS / Flexbox
+- Validação para ativação dos botões
 
--->
-# Trybewarts
+
+
