@@ -5,7 +5,7 @@ Era necessário ter o posicionamento correto dos elementos de acordo com o layou
 
 
 
-<h2>Ferramentas:</h2>
+<h2>Tecnologias utilizadas:</h2>
 
 - JavaScript
 - HTML
